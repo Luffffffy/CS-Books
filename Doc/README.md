@@ -10,17 +10,17 @@
         </p>
 
 
-**0**、🔥🔥🔥良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以**刷算法、C/C++、Java、硬件、前端**等，还有**大厂面经、面试真题**等。
 
-下面是一些我用过的其中一些比较好的在线题库：[C语言练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu01)、[C++练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu03)、[算法-面试必刷101](https://www.nowcoder.com/link/pc_kol_aaaxiu04)、[计算机基础语法练习](https://www.nowcoder.com/link/pc_kol_aaaxiu02)
 
-现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，正所谓：**不白嫖就是亏**！！！
+> 简介：🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+
+
 
 #### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
->简单附赠两个云服务器优惠信息： 
+>简单附赠两个云服务器优惠信息：
 >
 >【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
 >
@@ -37,17 +37,15 @@
 </div>
 
 
-#### 3、😄学习计算机八九年收集到的一些不错的资料免费分享，包括清华北大计算机课程资源等，[点此一键白嫖](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
+#### 3、👍🏻走心内推！字节跳动核心岗位在职员工校招社招内推方式，[传送门](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247507684&idx=1&sn=72aa278890931b4551391f5f008fad60&chksm=ce262299f951ab8fa668ab148c94296fe8e2baf712bd65c2495897d03ceb8e70e1ce6a8b9648&token=867943050&lang=zh_CN#rd)
 
-#### 4、❤️走心内推！字节跳动核心岗位在职员工校招社招内推方式，[传送门](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247507684&idx=1&sn=72aa278890931b4551391f5f008fad60&chksm=ce262299f951ab8fa668ab148c94296fe8e2baf712bd65c2495897d03ceb8e70e1ce6a8b9648&token=867943050&lang=zh_CN#rd)
+#### 4、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
-#### 5、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
+#### 5、⭐计算机经典图书榜单Top50，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
 
-#### 6、⭐计算机经典图书榜单Top50&互联网一二线中厂校招面试PDF合集，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
+#### 6、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
-#### 7、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
-
-#### 8、赞赏
+#### 7、赞赏
 
 <div align=left>
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
@@ -56,7 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 40%;" />
                                                                                                                         <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 40%;" />
                                                                                                                          </figure></div>
-
 
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
